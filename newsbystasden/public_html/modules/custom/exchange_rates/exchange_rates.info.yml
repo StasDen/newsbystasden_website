@@ -1,0 +1,6 @@
+name: Exchange Rates
+type: module
+description: 'Showing current currency exchange rates'
+package: Custom
+version: '3.0'
+core_version_requirement: ^8 || ^9
