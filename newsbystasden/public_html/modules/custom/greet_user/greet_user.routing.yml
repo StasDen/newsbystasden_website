@@ -1,0 +1,8 @@
+# Connecting module to drupal
+greet_user.page:
+  path: '/greeting'
+  defaults:
+    _controller: '\Drupal\greet_user\Controller\Greeting::greet_user'
+    _title: 'Greeting'
+  requirements:
+    _permission: 'access content'
