@@ -1,6 +1,7 @@
 # newsbystasden_website
 
-Drupal news website
+[Drupal news website](http://newsbystasden.site)*  
+**Host can be expired. Instead, watch the project in "Gallery" chapter*
 
 Studying Drupal  
 Implementing Drupal news website(UA)  
@@ -18,7 +19,6 @@ In order to use this project locally, you need to:
 
 For more details see also [step by step guide how to install Drupal with XAMPP](https://www.youtube.com/watch?v=kMfv_cVKOaA&t=239s)
 
-Website
+Gallery
 -------
-You can check hosted website [here](http://newsbystasden.site)*  
-*If host is not expired, that is
+https://user-images.githubusercontent.com/93178776/218333180-f0a098e0-a44a-4d4d-a962-503db246b427.mp4
