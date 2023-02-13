@@ -25,3 +25,7 @@ Gallery
 ![](https://user-images.githubusercontent.com/93178776/218455185-140050d8-ff67-42b4-ba7d-09334f0e6ad7.png)
 ![](https://user-images.githubusercontent.com/93178776/218455301-16cef113-2d91-4033-9231-31c4417b2446.png)
 ![](https://user-images.githubusercontent.com/93178776/218455445-789962ea-dcd9-4e3c-98e7-e8b68b49f07e.png)
+
+License
+-------
+This project is licensed under the [Apache License](https://github.com/StasDen/newsbystasden_website/blob/main/LICENSE.md)
