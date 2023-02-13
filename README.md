@@ -1,11 +1,11 @@
 # newsbystasden_website
 
-[Drupal news website](http://newsbystasden.site)*  
-**Host can be expired. Instead, watch the project in "Gallery" chapter*
+[Website](http://newsbystasden.site)*  
+**Host can be expired. Instead, see the project in [gallery](https://github.com/StasDen/newsbystasden_website/edit/main/README.md#gallery)*
 
 Studying Drupal  
 Implementing Drupal news website(UA)  
-Using **Drupal 9**
+Using **Drupal 9**, **PHP 8.1**
 
 Usage
 -----
@@ -13,7 +13,7 @@ In order to use this project locally, you need to:
 * Download the latest version of [XAMPP](https://www.apachefriends.org/download.html)
 * Copy "private" and "public_html" repository folders to "xampp\htdocs" one
 * Using XAMPP Control Panel("xampp-control.exe" file), run Apache and MySQL
-* In [phpMyAdmin](http://localhost/phpmyadmin) create new database. **Important**: db name, user and password should be as in following "public_html\sites\default\settings.php" file(*line 804*). Also don't forget to set them in "xampp\phpMyAdmin\config.inc.php"
+* In [phpMyAdmin](http://localhost/phpmyadmin) create new database. **Important:** db name, user and password should be as in following "public_html\sites\default\settings.php" file(*line 804*). Also don't forget to set them in "xampp\phpMyAdmin\config.inc.php"
 * Import "u535130821_drupal.sql" repository file to this db
 * Go to [website](http://localhost/drupal)
 
@@ -21,4 +21,13 @@ For more details see also [step by step guide how to install Drupal with XAMPP](
 
 Gallery
 -------
-https://user-images.githubusercontent.com/93178776/218333180-f0a098e0-a44a-4d4d-a962-503db246b427.mp4
+
+![](https://user-images.githubusercontent.com/93178776/218453795-c8980d56-dece-459f-907c-3d3e7d7b8863.gif)
+
+***
+
+![newsbystasden_intro1](https://user-images.githubusercontent.com/93178776/218455185-140050d8-ff67-42b4-ba7d-09334f0e6ad7.png)
+
+![newsbystasden_intro2](https://user-images.githubusercontent.com/93178776/218455301-16cef113-2d91-4033-9231-31c4417b2446.png)
+
+![newsbystasden_intro3](https://user-images.githubusercontent.com/93178776/218455445-789962ea-dcd9-4e3c-98e7-e8b68b49f07e.png)
