@@ -1,7 +1,7 @@
 # newsbystasden_website
 
 [Website link](http://newsbystasden.site)*  
-**Host can be expired. Instead, see the project in [gallery](https://github.com/StasDen/newsbystasden_website#gallery)*
+**Host can be expired. Instead, see the project in [Gallery](https://github.com/StasDen/newsbystasden_website#gallery)*
 
 Studying Drupal  
 Implementing Drupal news website(UA)  
