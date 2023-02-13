@@ -1,7 +1,7 @@
 # newsbystasden_website
 
 [Website](http://newsbystasden.site)*  
-**Host can be expired. Instead, see the project in [gallery](https://github.com/StasDen/newsbystasden_website/edit/main/README.md#gallery)*
+**Host can be expired. Instead, see the project in [gallery](https://github.com/StasDen/newsbystasden_website#gallery)*
 
 Studying Drupal  
 Implementing Drupal news website(UA)  
@@ -26,8 +26,8 @@ Gallery
 
 ***
 
-![newsbystasden_intro1](https://user-images.githubusercontent.com/93178776/218455185-140050d8-ff67-42b4-ba7d-09334f0e6ad7.png)
+![](https://user-images.githubusercontent.com/93178776/218455185-140050d8-ff67-42b4-ba7d-09334f0e6ad7.png)
 
-![newsbystasden_intro2](https://user-images.githubusercontent.com/93178776/218455301-16cef113-2d91-4033-9231-31c4417b2446.png)
+![](https://user-images.githubusercontent.com/93178776/218455301-16cef113-2d91-4033-9231-31c4417b2446.png)
 
-![newsbystasden_intro3](https://user-images.githubusercontent.com/93178776/218455445-789962ea-dcd9-4e3c-98e7-e8b68b49f07e.png)
+![](https://user-images.githubusercontent.com/93178776/218455445-789962ea-dcd9-4e3c-98e7-e8b68b49f07e.png)
