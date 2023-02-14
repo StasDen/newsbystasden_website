@@ -1,7 +1,7 @@
 # newsbystasden_website
 
-[Website link](http://newsbystasden.site)*  
-**Host can be expired. Instead, see the project in [Gallery](https://github.com/StasDen/newsbystasden_website#gallery)*
+[Hosted website](http://newsbystasden.site)*  
+**Host can be expired. See the project in [Gallery](https://github.com/StasDen/newsbystasden_website#gallery)* instead
 
 Studying Drupal  
 Implementing Drupal news website(UA)  
@@ -13,7 +13,8 @@ In order to use this project locally, you need to:
 * Download the latest version of [XAMPP](https://www.apachefriends.org/download.html)
 * Copy `private` and `public_html` repository folders to `xampp\htdocs`
 * Using XAMPP Control Panel(`xampp-control.exe`), run Apache and MySQL
-* In [phpMyAdmin](http://localhost/phpmyadmin) create new database. **Important:** db name, user and password should be as in following `public_html\sites\default\settings.php`(*line 804*). Also don't forget to set them in `xampp\phpMyAdmin\config.inc.php`
+* In [phpMyAdmin](http://localhost/phpmyadmin) create new database  
+**IMPORTANT:** db name, user and password should be as in following `public_html\sites\default\settings.php`(*line 804*). Also don't forget to set them in `xampp\phpMyAdmin\config.inc.php`
 * Import `u535130821_drupal.sql` repository file to this db
 * Go to [website](http://localhost/drupal)
 
