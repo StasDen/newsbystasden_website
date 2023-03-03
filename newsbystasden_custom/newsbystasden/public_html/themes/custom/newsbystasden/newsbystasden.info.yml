@@ -1,0 +1,15 @@
+name: Newsbystasden
+type: theme
+description: Custom newsbystasden theme
+base theme: false
+version: '2.1'
+core_version_requirement: ^8 || ^9 || ^10
+
+libraries:
+  - newsbystasden/global-styling
+
+regions:
+  menu: menu
+  header: header
+  content: content
+  footer: footer
