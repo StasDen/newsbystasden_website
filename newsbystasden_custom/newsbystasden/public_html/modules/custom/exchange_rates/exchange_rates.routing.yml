@@ -1,0 +1,7 @@
+exchange_rates.form:
+  path: '/exchange'
+  defaults:
+    _form: '\Drupal\exchange_rates\Form\ExchangeRatesForm'
+    _title: 'КУРС ВАЛЮТ'
+  requirements:
+    _permission: 'access content'
